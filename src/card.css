@@ -1,0 +1,21 @@
+.title {
+	width: 100%;
+	text-align: center;
+	background: #333;
+	color: aliceblue;
+	text-transform: uppercase;
+	font-family: 'Helvetica', serif;
+}
+
+.card {
+	margin-top: 1rem;
+	background: rgb(3, 47, 88);
+	max-width: 300px;
+	padding: 2rem;
+	text-align: center;
+	color: #fff;
+	border-radius: 5px;
+}
+.card__img {
+	max-width: 150px;
+}
