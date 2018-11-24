@@ -1,0 +1,13 @@
+.search-box {
+	background: rgb(2, 42, 128);
+	width: 100%;
+	padding: 2rem;
+	text-align: center;
+}
+
+.search-input{
+    padding: 1rem 2rem ;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+}

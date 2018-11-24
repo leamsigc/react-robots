@@ -2,6 +2,7 @@
 	width: 100%;
 	text-align: center;
 	background: #333;
+	padding: 2rem 0;
 	color: aliceblue;
 	text-transform: uppercase;
 	font-family: 'Helvetica', serif;
@@ -11,6 +12,7 @@
 	margin-top: 1rem;
 	background: rgb(3, 47, 88);
 	max-width: 300px;
+	width: 200px;
 	padding: 2rem;
 	text-align: center;
 	color: #fff;
